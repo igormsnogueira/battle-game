@@ -1,5 +1,7 @@
 # battle-game
 
+## Description
+A simple web battle game using vue.js that simulates the battle of two players until one of them dies. Try to guess which one will win!
 ## Project setup
 ```
 npm install
